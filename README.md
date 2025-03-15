@@ -89,19 +89,33 @@ A **WAF** can detect and block common path traversal attempts.
 ###  **vulnerabile parameter**
 
 ?cat={payload}
+
 ?dir={payload}
+
 ?action={payload}
+
 ?board={payload}
+
 ?date={payload}
+
 ?detail={payload}
+
 ?file={payload}
+
 ?download={payload}
+
 ?path={payload}
+
 ?folder={payload}
+
 ?prefix={payload}
+
 ?include={payload}
+
 ?page={payload}
+
 ?inc={payload}
+
 ?locate={payload}
 
 ---
